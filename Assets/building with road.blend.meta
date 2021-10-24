@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 683cb35dc045ae44f8bcbe62aff73933
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: building_04
+    100004: Circle.001
+    100006: Circle.002
+    100008: Circle.003
+    100010: Circle.004
+    100012: medival_house
+    100014: Plane
+    100016: Plane.001
+    100018: Plane.002
+    100020: Plane.004
+    400000: //RootNode
+    400002: building_04
+    400004: Circle.001
+    400006: Circle.002
+    400008: Circle.003
+    400010: Circle.004
+    400012: medival_house
+    400014: Plane
+    400016: Plane.001
+    400018: Plane.002
+    400020: Plane.004
+    2100000: metal_grey
+    2100002: foundation_grey_brick
+    2100004: curb
+    2100006: plaster_grey
+    2100008: wood_balls_brown
+    2100010: window_glass
+    2100012: plaster_white
+    2100014: plate_white
+    2100016: parapet
+    2100018: wood_brown
+    2100020: Material.033
+    2100022: Material.122
+    2100024: Material.124
+    2100026: Material.120
+    2100028: Material.126
+    2100030: Material.127
+    2100032: Material.129
+    2100034: Material.130
+    2100036: Material.133
+    2100038: Material.132
+    2100040: Material.131
+    2300000: building_04
+    2300002: Circle.001
+    2300004: Circle.002
+    2300006: Circle.003
+    2300008: Circle.004
+    2300010: medival_house
+    2300012: Plane
+    2300014: Plane.001
+    2300016: Plane.002
+    2300018: Plane.004
+    3300000: building_04
+    3300002: Circle.001
+    3300004: Circle.002
+    3300006: Circle.003
+    3300008: Circle.004
+    3300010: medival_house
+    3300012: Plane
+    3300014: Plane.001
+    3300016: Plane.002
+    3300018: Plane.004
+    4300000: building_04
+    4300002: medival_house
+    4300004: Plane.001
+    4300006: Plane.004
+    4300008: Plane
+    4300010: Circle.001
+    4300012: Circle.002
+    4300014: Circle.004
+    4300016: Circle.003
+    4300018: Plane.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
